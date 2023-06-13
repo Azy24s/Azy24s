@@ -2,7 +2,7 @@
 - 👀 I’m interested in learing 
 - 🌱 I’m currently learning html & css
 - 💞️ I’m looking to collaborate on idk yet
-- 📫 How to reach me abdulsalrh869@gmail.com
+- 📫 How to reach me abdulsaleh869@gmail.com
 
 <!---
 Azy24s/Azy24s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
